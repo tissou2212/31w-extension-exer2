@@ -1,5 +1,5 @@
-# 31w-extension-exer2
-31W - Exercice #2
+# 31W - Exercice #2
+
 
 ## Objectifs : 
 - Développement d’une extension.
